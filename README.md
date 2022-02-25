@@ -12,3 +12,5 @@ Current Features/Capabilities :
 
 Features In Development :
 - Rainy Screen Overlay.
+- Visuals. [Textures/Overlay Issues]
+- Rain VFX Editor Tool.
