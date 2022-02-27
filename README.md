@@ -1,8 +1,8 @@
 # Unity-VFX-Asset-Pack-01
-Beta Version - Source code coming soon.
+Beta Version.
+Assets in development.
 
-
-Rain and interactive puddle VFX system for Unity URP and HDRP. This asset is still under development.
+RAIN AND INTERACTIVE PUDDLES VFX SYSTEM
 
 Current Features/Capabilities :
 - Rain Mask VFX System.
@@ -15,9 +15,10 @@ Features In Development :
 - Rainy Screen Overlay.
 - Visuals. [Textures/Overlay Issues]
 - Rain VFX Editor Tool.
+- Script optimisation.
 
 
-Interactive fog VFX system for Unity URP and HDRP. This asset is still under development.
+INTERACTIVE FOG VFX SYSTEM
 
 Current Features/Capabilities :
 - Fog Controller Script.
@@ -27,3 +28,7 @@ Current Features/Capabilities :
 - Example Prefab.
 - Not intended for mobile games. 
 - Yet to test in VR but I am hoping I can optimise it enough to run smoothly.
+
+Features In Development :
+- Visuals. [Textures]
+- Script optimisation.
