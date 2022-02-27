@@ -1,4 +1,4 @@
-# Unity-Rain-VFX-Asset
+# Unity-VFX-Asset-Pack-01
 Beta Version - Source code coming soon.
 
 Rain and interactive puddle VFX system for Unity URP and HDRP. This asset is still under development.
